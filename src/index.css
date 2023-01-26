@@ -1,0 +1,22 @@
+body {
+  margin: 10px;
+  padding: 10px;
+  background-color: lightblue;
+  color: white;
+}
+
+h1{
+  background-color: green;
+}
+
+h2{
+  background-color: blue;
+}
+
+h3{
+  background-color: blueviolet;
+}
+
+p{
+  background-color: aquamarine;
+}
